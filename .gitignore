@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+data/*.db
+data/*.sqlite
+data/latest-stories.json
+data/latest-summary.json
+test-artifacts/
+
