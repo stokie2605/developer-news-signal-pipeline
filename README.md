@@ -2,11 +2,22 @@
 
 [![CI](https://github.com/stokie2605/developer-news-signal-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/stokie2605/developer-news-signal-pipeline/actions/workflows/ci.yml)
 
-Developer News Signal Pipeline is a backend/data automation project that collects top Hacker News stories through the official Hacker News API, normalises the records into a clean schema, scores developer relevance, and stores reviewable snapshots in SQLite.
+Backend data pipeline that collects developer news from the official Hacker News API, normalises raw item payloads, scores technical relevance, and stores reviewable SQLite, JSON, and HTML snapshots.
 
-It is a rebuilt, recruiter-safe version of an older scraping experiment. This project avoids fragile HTML scraping and instead uses an API-first pipeline with deterministic transforms, local persistence, tests, and CI.
+This is a recruiter-safe rebuild of an older scraping experiment. It avoids fragile HTML scraping and instead demonstrates an API-first workflow with typed models, deterministic transforms, local persistence, automated tests, and GitHub Actions CI.
 
-## What This Shows
+## Project Snapshot
+
+| Capability | Implementation |
+| --- | --- |
+| Source integration | Official Hacker News Firebase API |
+| Processing style | Fetch, normalise, score, persist, report |
+| Storage | SQLite snapshot with repeatable upsert behaviour |
+| Exports | JSON file and static HTML report |
+| Verification | Pytest suite and GitHub Actions workflow |
+| Positioning | Backend automation, data processing, and CI/CD practice |
+
+## What This Demonstrates
 
 | Area | Evidence |
 | --- | --- |
@@ -16,6 +27,20 @@ It is a rebuilt, recruiter-safe version of an older scraping experiment. This pr
 | Persistence | Stores snapshots in SQLite with repeatable upsert behaviour |
 | Testing | Unit tests cover scoring, filtering, storage, and the full pipeline using a fake API client |
 | CI/CD | GitHub Actions runs the pytest suite on pushes and pull requests |
+
+## Architecture
+
+The pipeline is intentionally small, testable, and easy to reason about:
+
+```text
+src/hn_signal/client.py    -> HN API client
+src/hn_signal/models.py    -> typed dataclasses
+src/hn_signal/scoring.py   -> keyword and engagement scoring
+src/hn_signal/storage.py   -> SQLite persistence
+src/hn_signal/pipeline.py  -> orchestration
+src/hn_signal/report.py    -> static HTML report rendering
+src/hn_signal/cli.py       -> command-line interface
+```
 
 ## Pipeline Flow
 
@@ -36,6 +61,7 @@ Signal Scoring
       |
       +--> SQLite Snapshot
       +--> JSON Export
+      +--> HTML Report
 ```
 
 ## Local Setup
@@ -52,7 +78,7 @@ Run the pipeline:
 hn-signal --limit 30
 ```
 
-Or run it directly:
+Or run it directly from the source layout:
 
 ```bash
 python -m hn_signal.cli --limit 30
@@ -83,7 +109,10 @@ Fetched items: 30
 Normalized stories: 28
 Stored stories: 28
 Top signal: Python automation for cloud infrastructure (92.45)
+HTML report: data/latest-report.html
 ```
+
+The generated HTML report is static and self-contained, making it easy to inspect the latest ranked snapshot locally without running a web server.
 
 ## Scoring Model
 
@@ -105,7 +134,10 @@ Current technical keywords include Python, automation, cloud, DevOps, infrastruc
 - Add a React dashboard for topic clusters and signal trends.
 - Add retry/backoff and request telemetry around upstream API calls.
 
+## Why This Project Exists
+
+This project shows the kind of backend work that sits behind operational dashboards and automation tools: collecting external data, turning inconsistent payloads into a stable schema, applying explainable scoring rules, and producing artifacts that can be tested, stored, and reviewed.
+
 ## Positioning
 
 This is a portfolio project for backend automation, data processing, and operational reliability practice. It is not a commercial news product and does not scrape private or restricted content.
-
