@@ -1,0 +1,611 @@
+[
+  {
+    "id": 48838876,
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "author": "djoldman",
+    "points": 956,
+    "comments": 188,
+    "created_at": "2026-07-08T23:37:43+00:00",
+    "age_hours": 12.49,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 113.82
+  },
+  {
+    "id": 48842611,
+    "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+    "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+    "author": "Gedxx",
+    "points": 189,
+    "comments": 135,
+    "created_at": "2026-07-09T08:22:52+00:00",
+    "age_hours": 3.74,
+    "keywords": [
+      "github"
+    ],
+    "signal_score": 103.54
+  },
+  {
+    "id": 48835111,
+    "title": "Grok 4.5",
+    "url": "https://x.ai/news/grok-4-5",
+    "author": "BoumTAC",
+    "points": 672,
+    "comments": 1081,
+    "created_at": "2026-07-08T18:00:32+00:00",
+    "age_hours": 18.11,
+    "keywords": [],
+    "signal_score": 101.44
+  },
+  {
+    "id": 48837877,
+    "title": "Rewriting Bun in Rust",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "author": "afturner",
+    "points": 642,
+    "comments": 377,
+    "created_at": "2026-07-08T21:49:59+00:00",
+    "age_hours": 14.28,
+    "keywords": [],
+    "signal_score": 99.36
+  },
+  {
+    "id": 48843352,
+    "title": "My Thoughts on the Bun Rust Rewrite",
+    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "author": "kristoff_it",
+    "points": 207,
+    "comments": 133,
+    "created_at": "2026-07-09T09:47:28+00:00",
+    "age_hours": 2.33,
+    "keywords": [],
+    "signal_score": 99.05
+  },
+  {
+    "id": 48834924,
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "author": "chenglong-hn",
+    "points": 307,
+    "comments": 114,
+    "created_at": "2026-07-08T17:46:12+00:00",
+    "age_hours": 18.35,
+    "keywords": [
+      "ai",
+      "agent"
+    ],
+    "signal_score": 95.7
+  },
+  {
+    "id": 48836233,
+    "title": "Cloudflare Drop",
+    "url": "https://www.cloudflare.com/drop/",
+    "author": "coloneltcb",
+    "points": 461,
+    "comments": 253,
+    "created_at": "2026-07-08T19:18:26+00:00",
+    "age_hours": 16.81,
+    "keywords": [
+      "cloud"
+    ],
+    "signal_score": 95.67
+  },
+  {
+    "id": 48829312,
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "author": "speerer",
+    "points": 1398,
+    "comments": 221,
+    "created_at": "2026-07-08T08:46:06+00:00",
+    "age_hours": 27.35,
+    "keywords": [],
+    "signal_score": 94.14
+  },
+  {
+    "id": 48834405,
+    "title": "GPT\u2011Live",
+    "url": "https://openai.com/index/introducing-gpt-live/",
+    "author": "logickkk1",
+    "points": 718,
+    "comments": 483,
+    "created_at": "2026-07-08T17:03:19+00:00",
+    "age_hours": 19.06,
+    "keywords": [],
+    "signal_score": 94.08
+  },
+  {
+    "id": 48841676,
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "url": "https://github.com/malisper/pgrust",
+    "author": "SweetSoftPillow",
+    "points": 155,
+    "comments": 202,
+    "created_at": "2026-07-09T06:18:19+00:00",
+    "age_hours": 5.81,
+    "keywords": [],
+    "signal_score": 92.64
+  },
+  {
+    "id": 48833116,
+    "title": "Chatto is now open source",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "author": "speckx",
+    "points": 999,
+    "comments": 272,
+    "created_at": "2026-07-08T15:19:50+00:00",
+    "age_hours": 20.79,
+    "keywords": [],
+    "signal_score": 91.77
+  },
+  {
+    "id": 48833715,
+    "title": "TypeScript 7",
+    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "author": "DanRosenwasser",
+    "points": 650,
+    "comments": 258,
+    "created_at": "2026-07-08T16:06:35+00:00",
+    "age_hours": 20.01,
+    "keywords": [],
+    "signal_score": 86.2
+  },
+  {
+    "id": 48836778,
+    "title": "FAANG Simulator",
+    "url": "https://www.abeyk.com/escape-the-rat-race/",
+    "author": "nerdbiscuits",
+    "points": 433,
+    "comments": 176,
+    "created_at": "2026-07-08T20:05:42+00:00",
+    "age_hours": 16.02,
+    "keywords": [],
+    "signal_score": 85.45
+  },
+  {
+    "id": 48841259,
+    "title": "Spider venom kills varroa mites without harming honeybees",
+    "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "author": "Jedd",
+    "points": 171,
+    "comments": 69,
+    "created_at": "2026-07-09T05:14:45+00:00",
+    "age_hours": 6.87,
+    "keywords": [],
+    "signal_score": 83.39
+  },
+  {
+    "id": 48843923,
+    "title": "EU Parliament greenlights Chat Control 1.0 \u2013 Breyer: \"Our children lose out\"",
+    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "author": "rapnie",
+    "points": 82,
+    "comments": 50,
+    "created_at": "2026-07-09T11:03:54+00:00",
+    "age_hours": 1.05,
+    "keywords": [],
+    "signal_score": 82.59
+  },
+  {
+    "id": 48834296,
+    "title": "EU now one step away from reviving private message scanning rules",
+    "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+    "author": "ggirelli",
+    "points": 431,
+    "comments": 165,
+    "created_at": "2026-07-08T16:53:06+00:00",
+    "age_hours": 19.23,
+    "keywords": [],
+    "signal_score": 79.1
+  },
+  {
+    "id": 48832212,
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "author": "ottomengis",
+    "points": 469,
+    "comments": 104,
+    "created_at": "2026-07-08T14:09:17+00:00",
+    "age_hours": 21.96,
+    "keywords": [],
+    "signal_score": 75.06
+  },
+  {
+    "id": 48837396,
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+    "author": "sk4rekr0w",
+    "points": 225,
+    "comments": 81,
+    "created_at": "2026-07-08T21:03:51+00:00",
+    "age_hours": 15.05,
+    "keywords": [],
+    "signal_score": 73.2
+  },
+  {
+    "id": 48839397,
+    "title": "Remote Attestation",
+    "url": "https://www.liamcvw.com/p/remote-attestation",
+    "author": "lcvw",
+    "points": 103,
+    "comments": 95,
+    "created_at": "2026-07-09T00:32:33+00:00",
+    "age_hours": 11.57,
+    "keywords": [],
+    "signal_score": 71.41
+  },
+  {
+    "id": 48831658,
+    "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+    "author": "linggen",
+    "points": 270,
+    "comments": 144,
+    "created_at": "2026-07-08T13:24:52+00:00",
+    "age_hours": 22.7,
+    "keywords": [],
+    "signal_score": 71.04
+  },
+  {
+    "id": 48833866,
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "author": "mekpro",
+    "points": 267,
+    "comments": 134,
+    "created_at": "2026-07-08T16:19:36+00:00",
+    "age_hours": 19.79,
+    "keywords": [],
+    "signal_score": 70.71
+  },
+  {
+    "id": 48837696,
+    "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+    "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+    "author": "tanelpoder",
+    "points": 109,
+    "comments": 44,
+    "created_at": "2026-07-08T21:30:09+00:00",
+    "age_hours": 14.61,
+    "keywords": [
+      "agent"
+    ],
+    "signal_score": 70.55
+  },
+  {
+    "id": 48786455,
+    "title": "Show HN: Follow London Trains in 3D",
+    "url": "https://ride.nexttrain.london/",
+    "author": "mgranados",
+    "points": 145,
+    "comments": 59,
+    "created_at": "2026-07-04T16:11:06+00:00",
+    "age_hours": 115.93,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 68.56
+  },
+  {
+    "id": 48839355,
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "url": "https://mira-wm.com/",
+    "author": "ethanlipson",
+    "points": 89,
+    "comments": 16,
+    "created_at": "2026-07-09T00:27:57+00:00",
+    "age_hours": 11.65,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 67.69
+  },
+  {
+    "id": 48843438,
+    "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+    "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+    "author": "theanonymousone",
+    "points": 58,
+    "comments": 8,
+    "created_at": "2026-07-09T10:02:33+00:00",
+    "age_hours": 2.07,
+    "keywords": [],
+    "signal_score": 62.77
+  },
+  {
+    "id": 48837110,
+    "title": "Turning a pile of documents into a searchable useable knowledge base",
+    "url": "https://github.com/linuxrebel/DocuBrowser",
+    "author": "linuxrebe1",
+    "points": 157,
+    "comments": 35,
+    "created_at": "2026-07-08T20:37:29+00:00",
+    "age_hours": 15.49,
+    "keywords": [],
+    "signal_score": 61.53
+  },
+  {
+    "id": 48836324,
+    "title": "New Sweden: the US's long-lost 'secret' colony",
+    "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+    "author": "bookofjoe",
+    "points": 139,
+    "comments": 49,
+    "created_at": "2026-07-08T19:26:18+00:00",
+    "age_hours": 16.68,
+    "keywords": [],
+    "signal_score": 60.57
+  },
+  {
+    "id": 48816987,
+    "title": "Show HN: Yamanote.fun \u2013 A complete soundscape for Tokyo's Yamanote line",
+    "url": "https://www.yamanote.fun/",
+    "author": "madebymagnolia",
+    "points": 195,
+    "comments": 44,
+    "created_at": "2026-07-07T12:47:46+00:00",
+    "age_hours": 47.32,
+    "keywords": [],
+    "signal_score": 57.79
+  },
+  {
+    "id": 48831587,
+    "title": "A bug which affected only left handed users",
+    "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+    "author": "sixhobbits",
+    "points": 122,
+    "comments": 77,
+    "created_at": "2026-07-08T13:20:05+00:00",
+    "age_hours": 22.78,
+    "keywords": [],
+    "signal_score": 56.6
+  },
+  {
+    "id": 48835439,
+    "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+    "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+    "author": "workethics",
+    "points": 117,
+    "comments": 38,
+    "created_at": "2026-07-08T18:21:53+00:00",
+    "age_hours": 17.75,
+    "keywords": [],
+    "signal_score": 54.6
+  },
+  {
+    "id": 48841385,
+    "title": "How Donkey Kong Toppled Atari",
+    "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+    "author": "giuliomagnifico",
+    "points": 43,
+    "comments": 12,
+    "created_at": "2026-07-09T05:34:44+00:00",
+    "age_hours": 6.54,
+    "keywords": [],
+    "signal_score": 54.16
+  },
+  {
+    "id": 48800596,
+    "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+    "url": "https://nexte.st/",
+    "author": "nateb2022",
+    "points": 129,
+    "comments": 31,
+    "created_at": "2026-07-06T04:19:30+00:00",
+    "age_hours": 79.79,
+    "keywords": [],
+    "signal_score": 50.14
+  },
+  {
+    "id": 48829797,
+    "title": "Unicode's transliteration rules are Turing-complete",
+    "url": "https://seriot.ch/computation/uts35/",
+    "author": "beefburger",
+    "points": 111,
+    "comments": 29,
+    "created_at": "2026-07-08T09:44:20+00:00",
+    "age_hours": 26.38,
+    "keywords": [],
+    "signal_score": 47.83
+  },
+  {
+    "id": 48794062,
+    "title": "TabFont \u2013 guitar tabs rendered as you type",
+    "url": "https://philatype.com/tabfont/",
+    "author": "ChrisArchitect",
+    "points": 91,
+    "comments": 27,
+    "created_at": "2026-07-05T13:13:54+00:00",
+    "age_hours": 94.89,
+    "keywords": [],
+    "signal_score": 44.92
+  },
+  {
+    "id": 48778956,
+    "title": "Meta reuses old RAM in new servers with custom bridge chip",
+    "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+    "author": "ihsw",
+    "points": 88,
+    "comments": 27,
+    "created_at": "2026-07-03T19:27:05+00:00",
+    "age_hours": 136.67,
+    "keywords": [],
+    "signal_score": 44.52
+  },
+  {
+    "id": 48804801,
+    "title": "I Built a Telegram Client for Pi",
+    "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+    "author": "atharva-again",
+    "points": 65,
+    "comments": 37,
+    "created_at": "2026-07-06T14:06:34+00:00",
+    "age_hours": 70.01,
+    "keywords": [],
+    "signal_score": 43.38
+  },
+  {
+    "id": 48795591,
+    "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "author": "Narann",
+    "points": 76,
+    "comments": 23,
+    "created_at": "2026-07-05T16:39:40+00:00",
+    "age_hours": 91.46,
+    "keywords": [],
+    "signal_score": 41.55
+  },
+  {
+    "id": 48835188,
+    "title": "Moving to FreeBSD from Linux",
+    "url": "https://kuon.ch/post/2026-07-02-moving-freebsd/",
+    "author": "speckx",
+    "points": 56,
+    "comments": 6,
+    "created_at": "2026-07-08T18:06:26+00:00",
+    "age_hours": 18.01,
+    "keywords": [
+      "linux"
+    ],
+    "signal_score": 38.67
+  },
+  {
+    "id": 48814023,
+    "title": "I Built the Only 2026 WWII Jeep",
+    "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+    "author": "martey",
+    "points": 64,
+    "comments": 12,
+    "created_at": "2026-07-07T05:38:26+00:00",
+    "age_hours": 54.48,
+    "keywords": [],
+    "signal_score": 34.61
+  },
+  {
+    "id": 48812736,
+    "title": "Apache Shiro security framework releases 3.0.0",
+    "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+    "author": "lprimak",
+    "points": 40,
+    "comments": 6,
+    "created_at": "2026-07-07T01:40:26+00:00",
+    "age_hours": 58.44,
+    "keywords": [
+      "security"
+    ],
+    "signal_score": 34.13
+  },
+  {
+    "id": 48789445,
+    "title": "3D Airplane tracker on Mercator map",
+    "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+    "author": "Lawyer24",
+    "points": 21,
+    "comments": 3,
+    "created_at": "2026-07-04T21:53:09+00:00",
+    "age_hours": 110.23,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 24.18
+  },
+  {
+    "id": 48797443,
+    "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide\u2013 Part 1",
+    "url": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
+    "author": "corvus-cornix",
+    "points": 62,
+    "comments": 2,
+    "created_at": "2026-07-05T19:55:58+00:00",
+    "age_hours": 88.18,
+    "keywords": [],
+    "signal_score": 22.51
+  },
+  {
+    "id": 48760258,
+    "title": "Beyond Git: Real-Time Version Control for Godot \u2013 Lilith Duncan \u2013 GodotCon 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
+    "author": "surprisetalk",
+    "points": 49,
+    "comments": 2,
+    "created_at": "2026-07-02T12:15:08+00:00",
+    "age_hours": 167.86,
+    "keywords": [],
+    "signal_score": 19.73
+  },
+  {
+    "id": 48843906,
+    "title": "Four nuclear reactors hit a big milestone in the US",
+    "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "author": "joozio",
+    "points": 5,
+    "comments": 0,
+    "created_at": "2026-07-09T11:01:16+00:00",
+    "age_hours": 1.1,
+    "keywords": [],
+    "signal_score": 19.53
+  },
+  {
+    "id": 48816724,
+    "title": "Show HN: Frugon \u2013 Find which LLM calls a cheaper model could handle (local, MIT)",
+    "url": "https://github.com/Rodiun/frugon",
+    "author": "jarodrh",
+    "points": 23,
+    "comments": 6,
+    "created_at": "2026-07-07T12:20:54+00:00",
+    "age_hours": 47.77,
+    "keywords": [],
+    "signal_score": 17.7
+  },
+  {
+    "id": 48794568,
+    "title": "My road trip with the do-gooding cactus smugglers",
+    "url": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
+    "author": "andsoitis",
+    "points": 40,
+    "comments": 2,
+    "created_at": "2026-07-05T14:30:44+00:00",
+    "age_hours": 93.6,
+    "keywords": [],
+    "signal_score": 17.35
+  },
+  {
+    "id": 48784126,
+    "title": "In-browser programmable robot simulator",
+    "url": "https://bittlex-sim.petoi.com/",
+    "author": "lijay",
+    "points": 36,
+    "comments": 0,
+    "created_at": "2026-07-04T09:41:30+00:00",
+    "age_hours": 122.43,
+    "keywords": [],
+    "signal_score": 7.33
+  },
+  {
+    "id": 48758059,
+    "title": "The Field Equation, living shader geometry folded into a breathing object",
+    "url": "https://sand-morph.up.railway.app/the-field-equation",
+    "author": "echohive42",
+    "points": 12,
+    "comments": 1,
+    "created_at": "2026-07-02T08:02:50+00:00",
+    "age_hours": 172.07,
+    "keywords": [],
+    "signal_score": 0.32
+  },
+  {
+    "id": 48803545,
+    "title": "Why is there smoke from the boiler room? \u2013 Botanical Garden using Home Assistant",
+    "url": "https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/",
+    "author": "Baardappel",
+    "points": 7,
+    "comments": 1,
+    "created_at": "2026-07-06T12:10:13+00:00",
+    "age_hours": 71.95,
+    "keywords": [],
+    "signal_score": 0
+  }
+]
