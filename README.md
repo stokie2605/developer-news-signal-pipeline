@@ -7,7 +7,7 @@
 * **The Tech Stack:** `Python` `SQLite` `Pytest` `GitHub Actions`
 
 
-## Architecture & Resilience
-- **High-Concurrency Pipeline:** Migrated from synchronous blocking requests to `aiohttp` and `asyncio.gather` for non-blocking HTTP data fetching.
-- **Fault-Tolerant Retries:** Integrated the `tenacity` library to provide exponential backoff and jitter for resilient API ingestion.
-- **Incremental Data Sync:** Implemented chunked streaming database commits into SQLite to ensure partial successes are captured during network failure.
+## Script Improvements & Reliability
+- **Faster Data Fetching (Async):** Upgraded the script to use async HTTP requests so it can fetch multiple data points at the same time without waiting.
+- **Automatic Retries:** Added a reliable retry system so the script automatically waits and tries again if the target API is temporarily down.
+- **Safe Database Saves:** The script now writes data to the SQLite database in small batches, ensuring that partial runs aren't lost if the script stops unexpectedly.
