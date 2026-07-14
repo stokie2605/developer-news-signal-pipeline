@@ -1,7 +1,10 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
+import asyncio
 from dataclasses import dataclass
 from pathlib import Path
+
+import aiohttp
 
 from hn_signal.client import HackerNewsClient, fetch_items
 from hn_signal.models import NormalizedStory, story_from_hn_item, utc_now_iso
@@ -28,7 +31,7 @@ def normalize_items(items: list[dict[str, object]]) -> list[NormalizedStory]:
     return sorted(stories, key=lambda story: story.signal_score, reverse=True)
 
 
-def run_pipeline(
+async def run_pipeline_async(
     *,
     limit: int,
     db_path: Path,
@@ -39,13 +42,21 @@ def run_pipeline(
         raise ValueError("limit must be greater than zero")
 
     hn_client = client or HackerNewsClient()
-    item_ids = hn_client.top_story_ids(limit)
-    items = fetch_items(hn_client, item_ids)
+    
+    async with aiohttp.ClientSession() as session:
+        item_ids = await hn_client.top_story_ids(session, limit)
+        
+    items = await fetch_items(hn_client, item_ids)
     stories = normalize_items(items)
     captured_at = utc_now_iso()
 
+    # Chunking database inserts for resilience
+    chunk_size = 50
+    stored = 0
     with connect(db_path) as connection:
-        upsert_stories(connection, stories, captured_at)
+        for i in range(0, len(stories), chunk_size):
+            chunk = stories[i : i + chunk_size]
+            upsert_stories(connection, chunk, captured_at)
         stored = len(top_stored_stories(connection, limit=limit))
 
     if json_path is not None:
@@ -60,3 +71,12 @@ def run_pipeline(
         stories=stories,
     )
 
+
+def run_pipeline(
+    *,
+    limit: int,
+    db_path: Path,
+    json_path: Path | None = None,
+    client: HackerNewsClient | None = None,
+) -> PipelineResult:
+    return asyncio.run(run_pipeline_async(limit=limit, db_path=db_path, json_path=json_path, client=client))

@@ -1,15 +1,16 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
+import pytest
 from pathlib import Path
 
-from hn_signal.pipeline import normalize_items, run_pipeline
+from hn_signal.pipeline import normalize_items, run_pipeline_async
 
 
 class FakeClient:
-    def top_story_ids(self, limit: int) -> list[int]:
+    async def top_story_ids(self, session, limit: int) -> list[int]:
         return [101, 102, 103][:limit]
 
-    def item(self, item_id: int) -> dict[str, object] | None:
+    async def item(self, session, item_id: int) -> dict[str, object] | None:
         items = {
             101: {
                 "id": 101,
@@ -53,7 +54,8 @@ def test_normalize_items_filters_non_story_records() -> None:
     assert stories[0].title == "AI infrastructure"
 
 
-def test_run_pipeline_stores_sqlite_and_exports_json() -> None:
+@pytest.mark.asyncio
+async def test_run_pipeline_stores_sqlite_and_exports_json() -> None:
     artifact_dir = Path("test-artifacts")
     artifact_dir.mkdir(exist_ok=True)
     db_path = artifact_dir / "pipeline-signals.db"
@@ -61,7 +63,7 @@ def test_run_pipeline_stores_sqlite_and_exports_json() -> None:
     db_path.unlink(missing_ok=True)
     json_path.unlink(missing_ok=True)
 
-    result = run_pipeline(limit=3, db_path=db_path, json_path=json_path, client=FakeClient())  # type: ignore[arg-type]
+    result = await run_pipeline_async(limit=3, db_path=db_path, json_path=json_path, client=FakeClient())  # type: ignore[arg-type]
 
     assert result.fetched_items == 3
     assert result.normalized_stories == 2
@@ -69,5 +71,3 @@ def test_run_pipeline_stores_sqlite_and_exports_json() -> None:
     assert result.top_story is not None
     assert db_path.exists()
     assert json_path.exists()
-
-

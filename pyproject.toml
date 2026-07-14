@@ -9,10 +9,10 @@ description = "Backend data pipeline that collects Hacker News stories, normalis
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [{ name = "Dean Wilshaw" }]
-dependencies = []
+dependencies = ["aiohttp>=3.9", "tenacity>=8.2"]
 
 [project.optional-dependencies]
-dev = ["pytest>=8.0"]
+dev = ["pytest>=8.0", "pytest-asyncio>=0.23"]
 
 [project.scripts]
 hn-signal = "hn_signal.cli:main"
