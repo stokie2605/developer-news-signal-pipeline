@@ -1,622 +1,628 @@
 [
   {
+    "id": 48915709,
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "author": "vinhnx",
+    "points": 326,
+    "comments": 78,
+    "created_at": "2026-07-15T02:57:47+00:00",
+    "age_hours": 4.81,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 107.78
+  },
+  {
+    "id": 48910545,
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "author": "xenova",
+    "points": 556,
+    "comments": 199,
+    "created_at": "2026-07-14T17:50:48+00:00",
+    "age_hours": 13.93,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 105.19
+  },
+  {
     "id": 48908178,
     "title": "Are we offloading too much of our thinking to AI?",
     "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
     "author": "yenniejun111",
-    "points": 279,
-    "comments": 267,
+    "points": 452,
+    "comments": 418,
     "created_at": "2026-07-14T15:18:13+00:00",
-    "age_hours": 5.11,
+    "age_hours": 16.47,
     "keywords": [
       "ai"
     ],
-    "signal_score": 115.15
+    "signal_score": 104.05
   },
   {
     "id": 48909424,
     "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
     "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
     "author": "hoechst",
-    "points": 294,
-    "comments": 165,
+    "points": 366,
+    "comments": 237,
     "created_at": "2026-07-14T16:36:06+00:00",
-    "age_hours": 3.81,
+    "age_hours": 15.17,
     "keywords": [
       "linux"
     ],
-    "signal_score": 109.28
-  },
-  {
-    "id": 48905028,
-    "title": "Codex starts encrypting sub-agent prompts",
-    "url": "https://github.com/openai/codex/issues/28058",
-    "author": "embedding-shape",
-    "points": 395,
-    "comments": 234,
-    "created_at": "2026-07-14T11:21:32+00:00",
-    "age_hours": 9.05,
-    "keywords": [
-      "agent"
-    ],
-    "signal_score": 109.16
-  },
-  {
-    "id": 48909768,
-    "title": "S&P Global has lowered Oracle\u2019s creditworthiness from BBB to BBB-",
-    "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-    "author": "gepeto42",
-    "points": 280,
-    "comments": 256,
-    "created_at": "2026-07-14T16:56:48+00:00",
-    "age_hours": 3.46,
-    "keywords": [],
-    "signal_score": 105.82
-  },
-  {
-    "id": 48905248,
-    "title": "How to stop Claude from saying load-bearing",
-    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "author": "shintoist",
-    "points": 306,
-    "comments": 398,
-    "created_at": "2026-07-14T11:46:02+00:00",
-    "age_hours": 8.64,
-    "keywords": [],
-    "signal_score": 101.08
-  },
-  {
-    "id": 48902320,
-    "title": "Australian energy retailers must offer three hours of free daytime electricity",
-    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "author": "i2oc",
-    "points": 246,
-    "comments": 321,
-    "created_at": "2026-07-14T04:31:48+00:00",
-    "age_hours": 15.88,
-    "keywords": [
-      "ai"
-    ],
-    "signal_score": 95.72
-  },
-  {
-    "id": 48910545,
-    "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "author": "xenova",
-    "points": 135,
-    "comments": 36,
-    "created_at": "2026-07-14T17:50:48+00:00",
-    "age_hours": 2.56,
-    "keywords": [
-      "ai"
-    ],
-    "signal_score": 95.22
-  },
-  {
-    "id": 48903777,
-    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-    "author": "roundabout-host",
-    "points": 389,
-    "comments": 264,
-    "created_at": "2026-07-14T08:34:57+00:00",
-    "age_hours": 11.83,
-    "keywords": [],
-    "signal_score": 94.94
-  },
-  {
-    "id": 48909785,
-    "title": "The Tower Keeps Rising",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "author": "cdrnsf",
-    "points": 198,
-    "comments": 80,
-    "created_at": "2026-07-14T16:57:54+00:00",
-    "age_hours": 3.45,
-    "keywords": [],
-    "signal_score": 92.47
-  },
-  {
-    "id": 48905919,
-    "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
-    "url": "https://github.com/Danau5tin/ai-trains-ai",
-    "author": "Danau5tin",
-    "points": 81,
-    "comments": 37,
-    "created_at": "2026-07-14T12:41:25+00:00",
-    "age_hours": 7.72,
-    "keywords": [
-      "ai",
-      "agent"
-    ],
-    "signal_score": 90.08
+    "signal_score": 94.33
   },
   {
     "id": 48869989,
     "title": "Your 'app' could have been a webpage (so I fixed it for you)",
     "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
     "author": "MrVandemar",
-    "points": 565,
-    "comments": 383,
+    "points": 787,
+    "comments": 473,
     "created_at": "2026-07-11T08:21:27+00:00",
-    "age_hours": 84.05,
+    "age_hours": 95.42,
     "keywords": [],
-    "signal_score": 87.67
+    "signal_score": 93.32
   },
   {
-    "id": 48904095,
-    "title": "Demis Hassabis has a plan to harness AI safely",
-    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-    "author": "asiergoni",
-    "points": 107,
-    "comments": 133,
-    "created_at": "2026-07-14T09:20:07+00:00",
-    "age_hours": 11.08,
+    "id": 48915004,
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "url": "https://tailscale.com/security-bulletins",
+    "author": "jervant",
+    "points": 129,
+    "comments": 58,
+    "created_at": "2026-07-15T01:08:26+00:00",
+    "age_hours": 6.63,
     "keywords": [
       "ai"
     ],
-    "signal_score": 87.43
+    "signal_score": 91.09
   },
   {
-    "id": 48908271,
-    "title": "Show HN: Opening lines of famous literary works",
-    "url": "https://www.verbaprima.com/",
-    "author": "plicerin",
-    "points": 113,
-    "comments": 73,
-    "created_at": "2026-07-14T15:24:49+00:00",
-    "age_hours": 5.0,
-    "keywords": [],
-    "signal_score": 82.27
-  },
-  {
-    "id": 48905118,
-    "title": "Punch yourself in the face with reality",
-    "url": "https://adi.bio/reality",
-    "author": "AdityaAnand1",
-    "points": 169,
-    "comments": 85,
-    "created_at": "2026-07-14T11:33:19+00:00",
-    "age_hours": 8.86,
-    "keywords": [],
-    "signal_score": 81.32
-  },
-  {
-    "id": 48905091,
-    "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-    "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-    "author": "zaikunzhang",
-    "points": 144,
-    "comments": 102,
-    "created_at": "2026-07-14T11:30:36+00:00",
-    "age_hours": 8.9,
-    "keywords": [],
-    "signal_score": 80.78
-  },
-  {
-    "id": 48907290,
-    "title": "Agnes Callard\u2019s theory of the uni-context",
-    "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-    "author": "FinnLobsien",
-    "points": 77,
-    "comments": 76,
-    "created_at": "2026-07-14T14:17:39+00:00",
-    "age_hours": 6.12,
-    "keywords": [],
-    "signal_score": 76.02
-  },
-  {
-    "id": 48903082,
-    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "author": "BaudouinVH",
-    "points": 183,
-    "comments": 20,
-    "created_at": "2026-07-14T06:43:28+00:00",
-    "age_hours": 13.69,
+    "id": 48902320,
+    "title": "Australian energy retailers must offer three hours of free daytime electricity",
+    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "author": "i2oc",
+    "points": 272,
+    "comments": 373,
+    "created_at": "2026-07-14T04:31:48+00:00",
+    "age_hours": 27.24,
     "keywords": [
       "ai"
     ],
-    "signal_score": 74.3
+    "signal_score": 90.71
   },
   {
-    "id": 48908214,
-    "title": "I'm a USB-C Maximalist",
-    "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-    "author": "speckx",
-    "points": 50,
-    "comments": 90,
-    "created_at": "2026-07-14T15:20:36+00:00",
-    "age_hours": 5.07,
-    "keywords": [],
-    "signal_score": 74.15
-  },
-  {
-    "id": 48905105,
-    "title": "No Spanish reading crisis?",
-    "url": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
-    "author": "jruohonen",
-    "points": 72,
-    "comments": 117,
-    "created_at": "2026-07-14T11:31:59+00:00",
-    "age_hours": 8.88,
-    "keywords": [],
-    "signal_score": 73.67
-  },
-  {
-    "id": 48908950,
-    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
-    "url": "https://agnost.ai",
-    "author": "laalshaitaan",
-    "points": 26,
-    "comments": 9,
-    "created_at": "2026-07-14T16:06:18+00:00",
-    "age_hours": 4.31,
+    "id": 48913443,
+    "title": "Financing the AI boom: from cash flows to debt [pdf]",
+    "url": "https://www.bis.org/publ/bisbull120.pdf",
+    "author": "1vuio0pswjnm7",
+    "points": 149,
+    "comments": 88,
+    "created_at": "2026-07-14T21:58:36+00:00",
+    "age_hours": 9.8,
     "keywords": [
-      "ai",
-      "agent"
+      "ai"
     ],
-    "signal_score": 72.22
+    "signal_score": 90.4
   },
   {
-    "id": 48905914,
-    "title": "Show HN: Beautiful Type Erasure with C++26 Reflection",
-    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-    "author": "RyanJK5",
-    "points": 97,
-    "comments": 40,
-    "created_at": "2026-07-14T12:40:50+00:00",
-    "age_hours": 7.73,
+    "id": 48909785,
+    "title": "The Tower Keeps Rising",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "author": "cdrnsf",
+    "points": 446,
+    "comments": 211,
+    "created_at": "2026-07-14T16:57:54+00:00",
+    "age_hours": 14.81,
     "keywords": [],
-    "signal_score": 70.81
+    "signal_score": 89.43
   },
   {
-    "id": 48903715,
-    "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-    "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-    "author": "alok-g",
-    "points": 121,
-    "comments": 66,
-    "created_at": "2026-07-14T08:24:49+00:00",
-    "age_hours": 12.0,
+    "id": 48905248,
+    "title": "How to stop Claude from saying load-bearing",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "author": "shintoist",
+    "points": 513,
+    "comments": 539,
+    "created_at": "2026-07-14T11:46:02+00:00",
+    "age_hours": 20.01,
     "keywords": [],
-    "signal_score": 69.69
+    "signal_score": 89.24
   },
   {
-    "id": 48902791,
-    "title": "Just Let Me Write Digits",
-    "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-    "author": "brandon_bot",
-    "points": 140,
-    "comments": 73,
-    "created_at": "2026-07-14T05:57:50+00:00",
-    "age_hours": 14.45,
+    "id": 48914644,
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "url": "https://vpd.ca/",
+    "author": "LookAtThatBacon",
+    "points": 240,
+    "comments": 94,
+    "created_at": "2026-07-15T00:15:53+00:00",
+    "age_hours": 7.51,
     "keywords": [],
-    "signal_score": 67.81
+    "signal_score": 88.73
   },
   {
-    "id": 48907672,
-    "title": "The Agentic Loop: Three loops in a trench coat",
-    "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-    "author": "btables",
-    "points": 47,
-    "comments": 11,
-    "created_at": "2026-07-14T14:39:56+00:00",
-    "age_hours": 5.75,
-    "keywords": [
-      "agent"
-    ],
-    "signal_score": 65.99
-  },
-  {
-    "id": 48883305,
-    "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
-    "url": "https://github.com/juggler-ai/juggler",
-    "author": "julesrms",
-    "points": 117,
-    "comments": 72,
-    "created_at": "2026-07-12T18:28:15+00:00",
-    "age_hours": 49.94,
-    "keywords": [
-      "agent"
-    ],
-    "signal_score": 65.57
-  },
-  {
-    "id": 48902026,
-    "title": "YouTrackDB is a general-use object-oriented graph database",
-    "url": "https://github.com/JetBrains/youtrackdb",
-    "author": "gjvc",
-    "points": 165,
-    "comments": 59,
-    "created_at": "2026-07-14T03:39:55+00:00",
-    "age_hours": 16.75,
+    "id": 48903777,
+    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+    "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+    "author": "roundabout-host",
+    "points": 519,
+    "comments": 361,
+    "created_at": "2026-07-14T08:34:57+00:00",
+    "age_hours": 23.19,
     "keywords": [],
-    "signal_score": 63.96
+    "signal_score": 86.18
   },
   {
     "id": 48910676,
     "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
     "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
     "author": "Synthetic7346",
-    "points": 46,
-    "comments": 13,
+    "points": 333,
+    "comments": 160,
     "created_at": "2026-07-14T17:58:35+00:00",
-    "age_hours": 2.43,
+    "age_hours": 13.8,
     "keywords": [],
-    "signal_score": 62.93
+    "signal_score": 85.55
   },
   {
-    "id": 48901356,
-    "title": "Satellite Tracker \u2013 Live Map of Starlink and 30k Satellites",
-    "url": "https://satellitemap.space/",
-    "author": "rolph",
-    "points": 150,
-    "comments": 85,
-    "created_at": "2026-07-14T01:55:24+00:00",
-    "age_hours": 18.49,
+    "id": 48908214,
+    "title": "I'm a USB-C Maximalist",
+    "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+    "author": "speckx",
+    "points": 256,
+    "comments": 357,
+    "created_at": "2026-07-14T15:20:36+00:00",
+    "age_hours": 16.43,
     "keywords": [],
-    "signal_score": 62.56
+    "signal_score": 84.06
   },
   {
-    "id": 48906123,
-    "title": "Tensor Is the Might",
-    "url": "https://zserge.com/posts/tensor/",
-    "author": "eatonphil",
-    "points": 42,
-    "comments": 23,
-    "created_at": "2026-07-14T12:56:21+00:00",
-    "age_hours": 7.47,
+    "id": 48916975,
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "author": "macleginn",
+    "points": 95,
+    "comments": 34,
+    "created_at": "2026-07-15T06:28:00+00:00",
+    "age_hours": 1.31,
     "keywords": [],
-    "signal_score": 57.11
+    "signal_score": 80.86
   },
   {
-    "id": 48887810,
-    "title": "A metallurgist's doubts about self-replicating probes",
-    "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
-    "author": "EA-3167",
-    "points": 136,
-    "comments": 66,
-    "created_at": "2026-07-13T04:11:20+00:00",
-    "age_hours": 40.22,
+    "id": 48913050,
+    "title": "Dependabot version updates introduce default package cooldown",
+    "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+    "author": "woodruffw",
+    "points": 165,
+    "comments": 102,
+    "created_at": "2026-07-14T21:15:51+00:00",
+    "age_hours": 10.51,
     "keywords": [],
-    "signal_score": 56.68
+    "signal_score": 79.5
   },
   {
-    "id": 48872833,
-    "title": "How to build a circular LCD clock",
-    "url": "https://blinry.org/lcd-clock/",
-    "author": "birdculture",
-    "points": 135,
-    "comments": 62,
-    "created_at": "2026-07-11T15:23:54+00:00",
-    "age_hours": 77.01,
-    "keywords": [],
-    "signal_score": 56.1
-  },
-  {
-    "id": 48901645,
-    "title": "Our Amish Language",
-    "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-    "author": "NaOH",
-    "points": 93,
-    "comments": 62,
-    "created_at": "2026-07-14T02:40:41+00:00",
-    "age_hours": 17.73,
-    "keywords": [],
-    "signal_score": 55.75
-  },
-  {
-    "id": 48905667,
-    "title": "Differentiable Fortran with LFortran and Enzyme",
-    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-    "author": "dionhaefner",
-    "points": 47,
-    "comments": 17,
-    "created_at": "2026-07-14T12:21:46+00:00",
-    "age_hours": 8.05,
-    "keywords": [],
-    "signal_score": 55.09
-  },
-  {
-    "id": 48876809,
-    "title": "How the FSF sysadmins block botnets with reaction",
-    "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
-    "author": "pseudolus",
-    "points": 144,
+    "id": 48913190,
+    "title": "Microsoft has released software updates to plug at least 570 security holes",
+    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "author": "robin_reala",
+    "points": 105,
     "comments": 49,
-    "created_at": "2026-07-11T23:26:12+00:00",
-    "age_hours": 68.97,
-    "keywords": [],
-    "signal_score": 55.02
+    "created_at": "2026-07-14T21:32:22+00:00",
+    "age_hours": 10.23,
+    "keywords": [
+      "security"
+    ],
+    "signal_score": 78.84
   },
   {
-    "id": 48865001,
-    "title": "The zero-cost fallacy: open-source software in the agentic era",
-    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-    "author": "backlit4034",
-    "points": 63,
-    "comments": 45,
-    "created_at": "2026-07-10T20:45:43+00:00",
-    "age_hours": 95.65,
+    "id": 48904095,
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "author": "asiergoni",
+    "points": 143,
+    "comments": 192,
+    "created_at": "2026-07-14T09:20:07+00:00",
+    "age_hours": 22.44,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 77.74
+  },
+  {
+    "id": 48883305,
+    "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
+    "url": "https://github.com/juggler-ai/juggler",
+    "author": "julesrms",
+    "points": 222,
+    "comments": 99,
+    "created_at": "2026-07-12T18:28:15+00:00",
+    "age_hours": 61.3,
     "keywords": [
       "agent"
     ],
-    "signal_score": 54.54
+    "signal_score": 75.73
   },
   {
-    "id": 48900796,
-    "title": "What did SFFA vs. Harvard reveal about admissions?",
-    "url": "https://sorting-machine.pages.dev/",
-    "author": "StrageMusik",
-    "points": 59,
-    "comments": 122,
-    "created_at": "2026-07-14T00:26:43+00:00",
-    "age_hours": 19.97,
+    "id": 48914646,
+    "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
+    "url": "https://www.starfleetmath.com/",
+    "author": "colin7snyder",
+    "points": 117,
+    "comments": 52,
+    "created_at": "2026-07-15T00:15:56+00:00",
+    "age_hours": 7.51,
     "keywords": [],
-    "signal_score": 51.69
+    "signal_score": 75.5
   },
   {
-    "id": 48901454,
-    "title": "Fundamentals of Wireless Communication (2005)",
-    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-    "author": "teleforce",
-    "points": 170,
-    "comments": 11,
-    "created_at": "2026-07-14T02:10:19+00:00",
-    "age_hours": 18.24,
+    "id": 48908950,
+    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
+    "url": "https://agnost.ai",
+    "author": "laalshaitaan",
+    "points": 77,
+    "comments": 37,
+    "created_at": "2026-07-14T16:06:18+00:00",
+    "age_hours": 15.67,
+    "keywords": [
+      "ai",
+      "agent"
+    ],
+    "signal_score": 75.18
+  },
+  {
+    "id": 48912175,
+    "title": "How I use HTMX with Go",
+    "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+    "author": "gnabgib",
+    "points": 211,
+    "comments": 52,
+    "created_at": "2026-07-14T19:55:31+00:00",
+    "age_hours": 11.85,
     "keywords": [],
-    "signal_score": 48.75
+    "signal_score": 74.71
   },
   {
     "id": 48872401,
     "title": "The largest available Minecraft world, totalling 15 TB",
     "url": "https://2b2t.place/1million",
     "author": "_____k",
-    "points": 64,
-    "comments": 13,
+    "points": 204,
+    "comments": 70,
     "created_at": "2026-07-11T14:32:19+00:00",
-    "age_hours": 77.87,
+    "age_hours": 89.23,
     "keywords": [
       "ai"
     ],
-    "signal_score": 47.21
+    "signal_score": 73.98
   },
   {
-    "id": 48904902,
-    "title": "Actegories",
-    "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
-    "author": "ibobev",
-    "points": 42,
-    "comments": 9,
-    "created_at": "2026-07-14T11:05:15+00:00",
-    "age_hours": 9.32,
+    "id": 48905919,
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+    "url": "https://github.com/Danau5tin/ai-trains-ai",
+    "author": "Danau5tin",
+    "points": 101,
+    "comments": 43,
+    "created_at": "2026-07-14T12:41:25+00:00",
+    "age_hours": 19.08,
+    "keywords": [
+      "ai",
+      "agent"
+    ],
+    "signal_score": 73.42
+  },
+  {
+    "id": 48865001,
+    "title": "The zero-cost fallacy: open-source software in the agentic era",
+    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+    "author": "backlit4034",
+    "points": 146,
+    "comments": 111,
+    "created_at": "2026-07-10T20:45:43+00:00",
+    "age_hours": 107.01,
+    "keywords": [
+      "agent"
+    ],
+    "signal_score": 71.63
+  },
+  {
+    "id": 48913763,
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "author": "kevinjosethomas",
+    "points": 87,
+    "comments": 11,
+    "created_at": "2026-07-14T22:30:47+00:00",
+    "age_hours": 9.26,
+    "keywords": [
+      "ai"
+    ],
+    "signal_score": 68.94
+  },
+  {
+    "id": 48870217,
+    "title": "The kids with phones are alright",
+    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+    "author": "JumpCrisscross",
+    "points": 193,
+    "comments": 168,
+    "created_at": "2026-07-11T09:08:08+00:00",
+    "age_hours": 94.64,
     "keywords": [],
-    "signal_score": 46.77
+    "signal_score": 68.25
   },
   {
-    "id": 48847943,
-    "title": "A tiny cell that broke a big rule of biology",
-    "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-    "author": "gumby",
-    "points": 125,
-    "comments": 18,
-    "created_at": "2026-07-09T15:50:40+00:00",
-    "age_hours": 124.57,
+    "id": 48908271,
+    "title": "Show HN: Opening lines of famous literary works",
+    "url": "https://www.verbaprima.com/",
+    "author": "plicerin",
+    "points": 163,
+    "comments": 91,
+    "created_at": "2026-07-14T15:24:49+00:00",
+    "age_hours": 16.36,
     "keywords": [],
-    "signal_score": 45.59
+    "signal_score": 67.92
   },
   {
-    "id": 48907398,
-    "title": "The Death of the Creator Middle Class",
-    "url": "https://letters.byburk.net/p/the-death-of-the-creator-middle-class",
-    "author": "spking",
-    "points": 20,
-    "comments": 7,
-    "created_at": "2026-07-14T14:23:44+00:00",
-    "age_hours": 6.02,
+    "id": 48905118,
+    "title": "Punch yourself in the face with reality",
+    "url": "https://adi.bio/reality",
+    "author": "AdityaAnand1",
+    "points": 223,
+    "comments": 106,
+    "created_at": "2026-07-14T11:33:19+00:00",
+    "age_hours": 20.22,
     "keywords": [],
-    "signal_score": 42.34
+    "signal_score": 66.32
   },
   {
-    "id": 48845527,
-    "title": "Notable Knot Index (2016)",
-    "url": "https://knots.neocities.org/knotindex",
-    "author": "surprisetalk",
+    "id": 48901356,
+    "title": "Satellite Tracker \u2013 Live Map of Starlink and 30k Satellites",
+    "url": "https://satellitemap.space/",
+    "author": "rolph",
+    "points": 159,
+    "comments": 94,
+    "created_at": "2026-07-14T01:55:24+00:00",
+    "age_hours": 29.85,
+    "keywords": [],
+    "signal_score": 61.33
+  },
+  {
+    "id": 48907290,
+    "title": "Agnes Callard\u2019s theory of the uni-context",
+    "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
+    "author": "FinnLobsien",
+    "points": 94,
+    "comments": 97,
+    "created_at": "2026-07-14T14:17:39+00:00",
+    "age_hours": 17.48,
+    "keywords": [],
+    "signal_score": 59.86
+  },
+  {
+    "id": 48876809,
+    "title": "How the FSF sysadmins block botnets with reaction",
+    "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
+    "author": "pseudolus",
+    "points": 160,
+    "comments": 71,
+    "created_at": "2026-07-11T23:26:12+00:00",
+    "age_hours": 80.34,
+    "keywords": [],
+    "signal_score": 59.19
+  },
+  {
+    "id": 48907672,
+    "title": "The Agentic Loop: Three loops in a trench coat",
+    "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+    "author": "btables",
+    "points": 80,
+    "comments": 22,
+    "created_at": "2026-07-14T14:39:56+00:00",
+    "age_hours": 17.11,
+    "keywords": [
+      "agent"
+    ],
+    "signal_score": 57.02
+  },
+  {
+    "id": 48913457,
+    "title": "Probably check on your smart appliances",
+    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+    "author": "xena",
     "points": 60,
-    "comments": 13,
-    "created_at": "2026-07-09T13:30:34+00:00",
-    "age_hours": 126.9,
+    "comments": 20,
+    "created_at": "2026-07-14T22:00:41+00:00",
+    "age_hours": 9.76,
     "keywords": [],
-    "signal_score": 34.44
-  },
-  {
-    "id": 48906893,
-    "title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
-    "url": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
-    "author": "bryanmikaelian",
-    "points": 17,
-    "comments": 2,
-    "created_at": "2026-07-14T13:52:21+00:00",
-    "age_hours": 6.54,
-    "keywords": [],
-    "signal_score": 31.7
-  },
-  {
-    "id": 48850688,
-    "title": "Paxos Made Simple (2001) [pdf]",
-    "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-    "author": "grep_it",
-    "points": 61,
-    "comments": 7,
-    "created_at": "2026-07-09T18:51:22+00:00",
-    "age_hours": 121.55,
-    "keywords": [],
-    "signal_score": 30.16
-  },
-  {
-    "id": 48863336,
-    "title": "Superoptimizer \u2013 A Look at the Smallest Program (1987) [pdf]",
-    "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
-    "author": "linggen",
-    "points": 48,
-    "comments": 8,
-    "created_at": "2026-07-10T18:15:27+00:00",
-    "age_hours": 98.15,
-    "keywords": [],
-    "signal_score": 28.28
-  },
-  {
-    "id": 48912100,
-    "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
-    "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
-    "author": "b112",
-    "points": 10,
-    "comments": 0,
-    "created_at": "2026-07-14T19:48:36+00:00",
-    "age_hours": 0.6,
-    "keywords": [],
-    "signal_score": 27.69
+    "signal_score": 56.11
   },
   {
     "id": 48906041,
     "title": "Guardian Angels: LLM Personalization for Productivity and Security",
     "url": "https://gwern.net/guardian-angel",
     "author": "andsoitis",
-    "points": 8,
-    "comments": 0,
+    "points": 83,
+    "comments": 13,
     "created_at": "2026-07-14T12:50:29+00:00",
-    "age_hours": 7.57,
+    "age_hours": 18.93,
     "keywords": [
       "security"
     ],
-    "signal_score": 22.74
+    "signal_score": 50.2
+  },
+  {
+    "id": 48916805,
+    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+    "author": "signa11",
+    "points": 23,
+    "comments": 3,
+    "created_at": "2026-07-15T06:02:17+00:00",
+    "age_hours": 1.74,
+    "keywords": [],
+    "signal_score": 46.1
+  },
+  {
+    "id": 48911803,
+    "title": "I also filed the corners off my MacBook",
+    "url": "https://www.brt.fyi/posts/mac-book-filing/",
+    "author": "maxbrt",
+    "points": 45,
+    "comments": 11,
+    "created_at": "2026-07-14T19:25:41+00:00",
+    "age_hours": 12.35,
+    "keywords": [],
+    "signal_score": 43.6
   },
   {
     "id": 48874190,
     "title": "The Second Life of Sanskrit",
     "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
     "author": "bookofjoe",
-    "points": 4,
-    "comments": 0,
+    "points": 51,
+    "comments": 50,
     "created_at": "2026-07-11T18:03:11+00:00",
-    "age_hours": 74.36,
+    "age_hours": 85.72,
     "keywords": [],
-    "signal_score": 0
+    "signal_score": 42.87
   },
   {
-    "id": 48843120,
-    "title": "Building a High-Performance C++ Backtesting Framework",
-    "url": "https://dolphindb.com/blogs/46",
-    "author": "CrazyTomato",
-    "points": 6,
-    "comments": 1,
-    "created_at": "2026-07-09T09:18:42+00:00",
-    "age_hours": 131.1,
+    "id": 48896672,
+    "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+    "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
+    "author": "srijan4",
+    "points": 52,
+    "comments": 44,
+    "created_at": "2026-07-13T18:23:12+00:00",
+    "age_hours": 37.39,
+    "keywords": [],
+    "signal_score": 42.1
+  },
+  {
+    "id": 48905183,
+    "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+    "url": "https://www.nature.com/articles/d41586-026-02170-8",
+    "author": "homarp",
+    "points": 73,
+    "comments": 21,
+    "created_at": "2026-07-14T11:40:34+00:00",
+    "age_hours": 20.1,
+    "keywords": [],
+    "signal_score": 40.38
+  },
+  {
+    "id": 48873275,
+    "title": "C++20 Improved the For-Loop Syntax",
+    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+    "author": "jpmitchell",
+    "points": 35,
+    "comments": 47,
+    "created_at": "2026-07-11T16:10:19+00:00",
+    "age_hours": 87.6,
+    "keywords": [],
+    "signal_score": 37.97
+  },
+  {
+    "id": 48862351,
+    "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+    "author": "speckx",
+    "points": 62,
+    "comments": 14,
+    "created_at": "2026-07-10T16:47:11+00:00",
+    "age_hours": 110.99,
+    "keywords": [],
+    "signal_score": 35.38
+  },
+  {
+    "id": 48899473,
+    "title": "The Estranged Worlds of J. G. Ballard",
+    "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+    "author": "Caiero",
+    "points": 56,
+    "comments": 12,
+    "created_at": "2026-07-13T21:57:56+00:00",
+    "age_hours": 33.81,
+    "keywords": [],
+    "signal_score": 33.04
+  },
+  {
+    "id": 48866848,
+    "title": "Unlocking the PSP's Dual Core Setup",
+    "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
+    "author": "msephton",
+    "points": 55,
+    "comments": 4,
+    "created_at": "2026-07-10T23:51:37+00:00",
+    "age_hours": 103.91,
+    "keywords": [],
+    "signal_score": 25.18
+  },
+  {
+    "id": 48875188,
+    "title": "Andon (manufacturing)",
+    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+    "author": "tony",
+    "points": 38,
+    "comments": 7,
+    "created_at": "2026-07-11T19:49:07+00:00",
+    "age_hours": 83.95,
+    "keywords": [],
+    "signal_score": 24.6
+  },
+  {
+    "id": 48854431,
+    "title": "Ambient Website Background Clouds",
+    "url": "https://github.com/paradise-runner/background-clouds",
+    "author": "dividedcomet",
+    "points": 16,
+    "comments": 4,
+    "created_at": "2026-07-10T00:50:09+00:00",
+    "age_hours": 126.94,
     "keywords": [
-      "testing"
+      "cloud"
     ],
+    "signal_score": 18.87
+  },
+  {
+    "id": 48913162,
+    "title": "Cyberstalkers Are Exploiting Chrome Sync to Spy on Victims",
+    "url": "https://www.certosoftware.com/insights/cyberstalkers-exploiting-chrome-sync-to-spy/",
+    "author": "hn_acker",
+    "points": 18,
+    "comments": 0,
+    "created_at": "2026-07-14T21:29:06+00:00",
+    "age_hours": 10.29,
+    "keywords": [],
+    "signal_score": 16.81
+  },
+  {
+    "id": 48882608,
+    "title": "The Trade in Looted Antiquities Endures for One Reason: Demand",
+    "url": "https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870",
+    "author": "derbOac",
+    "points": 16,
+    "comments": 5,
+    "created_at": "2026-07-12T17:00:29+00:00",
+    "age_hours": 62.77,
+    "keywords": [],
+    "signal_score": 12.33
+  },
+  {
+    "id": 48860897,
+    "title": "Surprising lessons from my research scientist job search",
+    "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+    "author": "gmays",
+    "points": 3,
+    "comments": 0,
+    "created_at": "2026-07-10T14:58:13+00:00",
+    "age_hours": 112.8,
+    "keywords": [],
     "signal_score": 0
   }
 ]
